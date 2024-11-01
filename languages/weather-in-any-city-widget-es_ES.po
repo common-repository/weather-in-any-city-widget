@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather Widget Pro\n"
+"POT-Creation-Date: 2023-02-09 09:31+0100\n"
+"PO-Revision-Date: 2023-02-09 09:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: weather-in-any-city-widget.php:66
+msgid "mon."
+msgstr "lun."
+
+#: weather-in-any-city-widget.php:67
+msgid "tue."
+msgstr "mar."
+
+#: weather-in-any-city-widget.php:68
+msgid "wed."
+msgstr "miér."
+
+#: weather-in-any-city-widget.php:69
+msgid "thu."
+msgstr "jue."
+
+#: weather-in-any-city-widget.php:70
+msgid "fri."
+msgstr "vier."
+
+#: weather-in-any-city-widget.php:71
+msgid "sat."
+msgstr "sáb."
+
+#: weather-in-any-city-widget.php:72
+msgid "sun."
+msgstr "dom."
+
+#: weather-in-any-city-widget.php:73
+msgid "today"
+msgstr "hoy"
+
+#: weather-in-any-city-widget.php:74
+msgid "tmrw."
+msgstr "mñn."
+
+#: weather-in-any-city-widget.php:83
+msgid ""
+"Weather Widget Pro provides a complete weather forecast for any location "
+"around the world."
+msgstr ""
+"Weather Widget Pro proporciona una completa previsión meteorológica para "
+"cualquier lugar del mundo."
+
+#: weather-in-any-city-widget.php:84
+msgid "Weather Widget Pro"
+msgstr "Weather Widget Pro"
+
+#: weather-in-any-city-widget.php:253
+msgid "General"
+msgstr "General"
+
+#: weather-in-any-city-widget.php:257
+msgid "City"
+msgstr "Ciudad"
+
+#: weather-in-any-city-widget.php:298
+msgid "Title"
+msgstr "Título"
+
+#: weather-in-any-city-widget.php:298
+msgid "optional"
+msgstr "opcional"
+
+#: weather-in-any-city-widget.php:304
+msgid "Title will overwrite the city name"
+msgstr "El título sobrescribirá el nombre de la ciudad"
+
+#: weather-in-any-city-widget.php:310
+msgid "Units"
+msgstr "Unidades"
+
+#: weather-in-any-city-widget.php:315
+msgid "Celsius"
+msgstr "Celsius"
+
+#: weather-in-any-city-widget.php:319
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+#: weather-in-any-city-widget.php:326
+msgid "Current conditions"
+msgstr "Condiciones actuales"
+
+#: weather-in-any-city-widget.php:337
+msgid "Show current conditions"
+msgstr "Mostrar condiciones actuales"
+
+#: weather-in-any-city-widget.php:349 weather-in-any-city-widget.php:541
+msgid "Icon"
+msgstr "Icono"
+
+#: weather-in-any-city-widget.php:361 weather-in-any-city-widget.php:528
+msgid "Temperature"
+msgstr "Temperatura"
+
+#: weather-in-any-city-widget.php:373
+msgid "Humidity"
+msgstr "Humedad"
+
+#: weather-in-any-city-widget.php:385 weather-in-any-city-widget.php:553
+msgid "Wind"
+msgstr "Viento"
+
+#: weather-in-any-city-widget.php:397
+msgid "Pressure"
+msgstr "Presión"
+
+#: weather-in-any-city-widget.php:409
+msgid "Cloudiness"
+msgstr "Nubosidad"
+
+#: weather-in-any-city-widget.php:423
+msgid "Sunrise / sunset"
+msgstr "Amanecer / atardecer"
+
+#: weather-in-any-city-widget.php:430
+msgid "Forecast"
+msgstr "Previsión"
+
+#: weather-in-any-city-widget.php:432
+msgid "Days"
+msgstr "Días"
+
+#: weather-in-any-city-widget.php:437
+msgid "Disable forecast"
+msgstr "Desactivar previsión"
+
+#: weather-in-any-city-widget.php:441
+msgid "1 day"
+msgstr "1 día"
+
+#: weather-in-any-city-widget.php:445
+msgid "2 days"
+msgstr "2 días"
+
+#: weather-in-any-city-widget.php:449
+msgid "3 days"
+msgstr "3 días"
+
+#: weather-in-any-city-widget.php:453
+msgid "4 days"
+msgstr "4 días"
+
+#: weather-in-any-city-widget.php:457
+msgid "5 days"
+msgstr "5 días"
+
+#: weather-in-any-city-widget.php:461
+msgid "6 days"
+msgstr "6 días"
+
+#: weather-in-any-city-widget.php:465
+msgid "7 days"
+msgstr "7 días"
+
+#: weather-in-any-city-widget.php:469
+msgid "8 days"
+msgstr "8 días"
+
+#: weather-in-any-city-widget.php:473
+msgid "9 days"
+msgstr "9 días"
+
+#: weather-in-any-city-widget.php:477
+msgid "10 days"
+msgstr "10 días"
+
+#: weather-in-any-city-widget.php:481
+msgid "11 days"
+msgstr "11 días"
+
+#: weather-in-any-city-widget.php:485
+msgid "12 days"
+msgstr "12 días"
+
+#: weather-in-any-city-widget.php:489
+msgid "13 days"
+msgstr "13 días"
+
+#: weather-in-any-city-widget.php:493
+msgid "14 days"
+msgstr "14 días"
+
+#: weather-in-any-city-widget.php:497
+msgid "15 days"
+msgstr "15 días"
+
+#: weather-in-any-city-widget.php:504
+msgid "Layout"
+msgstr "Disposición"
+
+#: weather-in-any-city-widget.php:509
+msgid "Vertical"
+msgstr "Vertical"
+
+#: weather-in-any-city-widget.php:513
+msgid "Horizontal"
+msgstr "Horizonal"
+
+#: weather-in-any-city-widget.php:566
+msgid "Rain probability"
+msgstr "Probabilidad de lluvia"
+
+#: weather-in-any-city-widget.php:572
+msgid "Look and feel"
+msgstr "Estilo"
+
+#: weather-in-any-city-widget.php:575
+msgid "Font size"
+msgstr "Tamaño de fuente"
+
+#: weather-in-any-city-widget.php:583
+msgid "Weather icons color"
+msgstr "Color de iconos del tiempo"
+
+#: weather-in-any-city-widget.php:588
+msgid "Color"
+msgstr "Color"
+
+#: weather-in-any-city-widget.php:592 weather-in-any-city-widget.php:610
+msgid "Light"
+msgstr "Claro"
+
+#: weather-in-any-city-widget.php:596 weather-in-any-city-widget.php:614
+msgid "Dark"
+msgstr "Oscuro"
+
+#: weather-in-any-city-widget.php:605
+msgid "UI icons color"
+msgstr "Color de iconos de la interfaz"
+
+#: weather-in-any-city-widget.php:622
+msgid "Font color"
+msgstr "Color de fuente"
+
+#: weather-in-any-city-widget.php:630
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: weather-in-any-city-widget.php:638
+msgid "Border color"
+msgstr "Color de borde"
+
+#: weather-in-any-city-widget.php:653
+msgid "Shadow"
+msgstr "Sombra"
+
+#: weather-in-any-city-widget.php:660
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#~ msgid "Credits"
+#~ msgstr "Créditos"
